@@ -1,0 +1,71 @@
+title,bedrooms,bathrooms,location_city,url,price_clean,garage_clean,room_count,price_per_m2,area_filled,garage_outside,garage_shaded,garage_unshaded
+3-BEDROOM APARTMENT,3,3,Bausher,https://hilalprp.com.om/property/3-bedroom-apartment-35/,45000.0,shaded,6,,229.20000000000002,False,True,False
+3-BEDROOM VILLA,3,4,Al Mawaleh,https://hilalprp.com.om/property/3-bedroom-villa-3/,290000.0,shaded,7,,267.40000000000003,False,True,False
+6-BEDROOM TWIN VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-twin-villa-13/,180000.0,shaded,13,,496.6,False,True,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-9/,300000.0,shaded,16,395.77836411609496,758.0,False,True,False
+4-BEDROOM DETACHED VILLA,4,6,Al Hail,https://hilalprp.com.om/property/4-bedroom-detached-villa-19/,80000.0,shaded,10,,382.0,False,True,False
+5-BEDROOM TWIN VILLA,5,7,Al Ansab,https://hilalprp.com.om/property/5-bedroom-twin-villa-21/,700.0,unshaded,12,,458.40000000000003,False,False,True
+7-BEDROOM TWIN VILLA,7,8,Property Location,https://hilalprp.com.om/property/7-bedroom-twin-villa-3/,105000.0,shaded,15,183.2460732984293,573.0,False,True,False
+6+1 BEDROOM DETACHED VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-detached-villa-20/,180.0,shaded,13,,496.6,False,True,False
+4+1 BEDROOM COMPOUND VILLA,4,5,Al Khoudh,https://hilalprp.com.om/property/41-compound-villa-2/,80000.0,outside,9,307.6923076923077,260.0,True,False,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-5/,220.0,shaded,16,,611.2,False,True,False
+3-BEDROOM APARTMENT,3,3,Bausher,https://hilalprp.com.om/property/3-bedroom-apartment-35/,45000.0,shaded,6,,229.20000000000002,False,True,False
+3-BEDROOM VILLA,3,4,Al Mawaleh,https://hilalprp.com.om/property/3-bedroom-villa-3/,290000.0,shaded,7,,267.40000000000003,False,True,False
+6-BEDROOM TWIN VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-twin-villa-13/,180000.0,shaded,13,,496.6,False,True,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-9/,300000.0,shaded,16,395.77836411609496,758.0,False,True,False
+4-BEDROOM DETACHED VILLA,4,6,Al Hail,https://hilalprp.com.om/property/4-bedroom-detached-villa-19/,80000.0,shaded,10,,382.0,False,True,False
+5-BEDROOM TWIN VILLA,5,7,Al Ansab,https://hilalprp.com.om/property/5-bedroom-twin-villa-21/,700.0,unshaded,12,,458.40000000000003,False,False,True
+7-BEDROOM TWIN VILLA,7,8,Property Location,https://hilalprp.com.om/property/7-bedroom-twin-villa-3/,105000.0,shaded,15,183.2460732984293,573.0,False,True,False
+6+1 BEDROOM DETACHED VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-detached-villa-20/,180.0,shaded,13,,496.6,False,True,False
+4+1 BEDROOM COMPOUND VILLA,4,5,Al Khoudh,https://hilalprp.com.om/property/41-compound-villa-2/,80000.0,outside,9,307.6923076923077,260.0,True,False,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-5/,220.0,shaded,16,,611.2,False,True,False
+3-BEDROOM APARTMENT,3,3,Bausher,https://hilalprp.com.om/property/3-bedroom-apartment-35/,45000.0,shaded,6,,229.20000000000002,False,True,False
+3-BEDROOM VILLA,3,4,Al Mawaleh,https://hilalprp.com.om/property/3-bedroom-villa-3/,290000.0,shaded,7,,267.40000000000003,False,True,False
+6-BEDROOM TWIN VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-twin-villa-13/,180000.0,shaded,13,,496.6,False,True,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-9/,300000.0,shaded,16,395.77836411609496,758.0,False,True,False
+4-BEDROOM DETACHED VILLA,4,6,Al Hail,https://hilalprp.com.om/property/4-bedroom-detached-villa-19/,80000.0,shaded,10,,382.0,False,True,False
+5-BEDROOM TWIN VILLA,5,7,Al Ansab,https://hilalprp.com.om/property/5-bedroom-twin-villa-21/,700.0,unshaded,12,,458.40000000000003,False,False,True
+7-BEDROOM TWIN VILLA,7,8,Property Location,https://hilalprp.com.om/property/7-bedroom-twin-villa-3/,105000.0,shaded,15,183.2460732984293,573.0,False,True,False
+6+1 BEDROOM DETACHED VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-detached-villa-20/,180.0,shaded,13,,496.6,False,True,False
+4+1 BEDROOM COMPOUND VILLA,4,5,Al Khoudh,https://hilalprp.com.om/property/41-compound-villa-2/,80000.0,outside,9,307.6923076923077,260.0,True,False,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-5/,220.0,shaded,16,,611.2,False,True,False
+3-BEDROOM APARTMENT,3,3,Bausher,https://hilalprp.com.om/property/3-bedroom-apartment-35/,45000.0,shaded,6,,229.20000000000002,False,True,False
+3-BEDROOM VILLA,3,4,Al Mawaleh,https://hilalprp.com.om/property/3-bedroom-villa-3/,290000.0,shaded,7,,267.40000000000003,False,True,False
+6-BEDROOM TWIN VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-twin-villa-13/,180000.0,shaded,13,,496.6,False,True,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-9/,300000.0,shaded,16,395.77836411609496,758.0,False,True,False
+4-BEDROOM DETACHED VILLA,4,6,Al Hail,https://hilalprp.com.om/property/4-bedroom-detached-villa-19/,80000.0,shaded,10,,382.0,False,True,False
+5-BEDROOM TWIN VILLA,5,7,Al Ansab,https://hilalprp.com.om/property/5-bedroom-twin-villa-21/,700.0,unshaded,12,,458.40000000000003,False,False,True
+7-BEDROOM TWIN VILLA,7,8,Property Location,https://hilalprp.com.om/property/7-bedroom-twin-villa-3/,105000.0,shaded,15,183.2460732984293,573.0,False,True,False
+6+1 BEDROOM DETACHED VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-detached-villa-20/,180.0,shaded,13,,496.6,False,True,False
+4+1 BEDROOM COMPOUND VILLA,4,5,Al Khoudh,https://hilalprp.com.om/property/41-compound-villa-2/,80000.0,outside,9,307.6923076923077,260.0,True,False,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-5/,220.0,shaded,16,,611.2,False,True,False
+3-BEDROOM APARTMENT,3,3,Bausher,https://hilalprp.com.om/property/3-bedroom-apartment-35/,45000.0,shaded,6,,229.20000000000002,False,True,False
+3-BEDROOM VILLA,3,4,Al Mawaleh,https://hilalprp.com.om/property/3-bedroom-villa-3/,290000.0,shaded,7,,267.40000000000003,False,True,False
+6-BEDROOM TWIN VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-twin-villa-13/,180000.0,shaded,13,,496.6,False,True,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-9/,300000.0,shaded,16,395.77836411609496,758.0,False,True,False
+4-BEDROOM DETACHED VILLA,4,6,Al Hail,https://hilalprp.com.om/property/4-bedroom-detached-villa-19/,80000.0,shaded,10,,382.0,False,True,False
+5-BEDROOM TWIN VILLA,5,7,Al Ansab,https://hilalprp.com.om/property/5-bedroom-twin-villa-21/,700.0,unshaded,12,,458.40000000000003,False,False,True
+7-BEDROOM TWIN VILLA,7,8,Property Location,https://hilalprp.com.om/property/7-bedroom-twin-villa-3/,105000.0,shaded,15,183.2460732984293,573.0,False,True,False
+6+1 BEDROOM DETACHED VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-detached-villa-20/,180.0,shaded,13,,496.6,False,True,False
+4+1 BEDROOM COMPOUND VILLA,4,5,Al Khoudh,https://hilalprp.com.om/property/41-compound-villa-2/,80000.0,outside,9,307.6923076923077,260.0,True,False,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-5/,220.0,shaded,16,,611.2,False,True,False
+3-BEDROOM APARTMENT,3,3,Bausher,https://hilalprp.com.om/property/3-bedroom-apartment-35/,45000.0,shaded,6,,229.20000000000002,False,True,False
+3-BEDROOM VILLA,3,4,Al Mawaleh,https://hilalprp.com.om/property/3-bedroom-villa-3/,290000.0,shaded,7,,267.40000000000003,False,True,False
+6-BEDROOM TWIN VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-twin-villa-13/,180000.0,shaded,13,,496.6,False,True,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-9/,300000.0,shaded,16,395.77836411609496,758.0,False,True,False
+4-BEDROOM DETACHED VILLA,4,6,Al Hail,https://hilalprp.com.om/property/4-bedroom-detached-villa-19/,80000.0,shaded,10,,382.0,False,True,False
+5-BEDROOM TWIN VILLA,5,7,Al Ansab,https://hilalprp.com.om/property/5-bedroom-twin-villa-21/,700.0,unshaded,12,,458.40000000000003,False,False,True
+7-BEDROOM TWIN VILLA,7,8,Property Location,https://hilalprp.com.om/property/7-bedroom-twin-villa-3/,105000.0,shaded,15,183.2460732984293,573.0,False,True,False
+6+1 BEDROOM DETACHED VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-detached-villa-20/,180.0,shaded,13,,496.6,False,True,False
+4+1 BEDROOM COMPOUND VILLA,4,5,Al Khoudh,https://hilalprp.com.om/property/41-compound-villa-2/,80000.0,outside,9,307.6923076923077,260.0,True,False,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-5/,220.0,shaded,16,,611.2,False,True,False
+3-BEDROOM APARTMENT,3,3,Bausher,https://hilalprp.com.om/property/3-bedroom-apartment-35/,45000.0,shaded,6,,229.20000000000002,False,True,False
+3-BEDROOM VILLA,3,4,Al Mawaleh,https://hilalprp.com.om/property/3-bedroom-villa-3/,290000.0,shaded,7,,267.40000000000003,False,True,False
+6-BEDROOM TWIN VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-twin-villa-13/,180000.0,shaded,13,,496.6,False,True,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-9/,300000.0,shaded,16,395.77836411609496,758.0,False,True,False
+4-BEDROOM DETACHED VILLA,4,6,Al Hail,https://hilalprp.com.om/property/4-bedroom-detached-villa-19/,80000.0,shaded,10,,382.0,False,True,False
+5-BEDROOM TWIN VILLA,5,7,Al Ansab,https://hilalprp.com.om/property/5-bedroom-twin-villa-21/,700.0,unshaded,12,,458.40000000000003,False,False,True
+7-BEDROOM TWIN VILLA,7,8,Property Location,https://hilalprp.com.om/property/7-bedroom-twin-villa-3/,105000.0,shaded,15,183.2460732984293,573.0,False,True,False
+6+1 BEDROOM DETACHED VILLA,6,7,Bausher,https://hilalprp.com.om/property/6-bedroom-detached-villa-20/,180.0,shaded,13,,496.6,False,True,False
+4+1 BEDROOM COMPOUND VILLA,4,5,Al Khoudh,https://hilalprp.com.om/property/41-compound-villa-2/,80000.0,outside,9,307.6923076923077,260.0,True,False,False
+7-BEDROOM DETACHED VILLA,7,9,Al Ansab,https://hilalprp.com.om/property/7-bedroom-detached-villa-5/,220.0,shaded,16,,611.2,False,True,False
